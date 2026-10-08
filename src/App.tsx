@@ -86,8 +86,10 @@ export default function App() {
         onPlay={() => setIsPlaying(true)}
         onPause={() => setIsPlaying(false)}
       >
-        <source src="/music/married-with-children.webm" type="audio/webm" />
         <source src="/music/married-with-children.mp3" type="audio/mpeg" />
+        <source src="/music/married-with-children.m4a" type="audio/mp4" />
+        <source src="/music/married-with-children.aac" type="audio/aac" />
+        <source src="/music/married-with-children.webm" type="audio/webm" />
       </audio>
 
       {/* 1. Welcome Modal on initial load */}
