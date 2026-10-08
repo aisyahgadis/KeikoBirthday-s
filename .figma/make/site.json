@@ -1,0 +1,10 @@
+{
+  "description": "Create a personalized and elegant birthday surprise website that celebrates Keiko's 18th birthday with heartfelt messages, memories, and interactive moments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
